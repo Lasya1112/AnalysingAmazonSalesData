@@ -1,10 +1,10 @@
-# 🛒 Amazon Sales Analysis
+#  Amazon Sales Analysis
 
-## 🔍 Overview
+##  Overview
 
 This project focuses on analyzing Amazon sales data to uncover insights and trends related to revenue, order priority, and regional sales distribution. By examining the dataset, the goal is to identify patterns and provide actionable insights for business decision-making.
 
-## 📝 Objective
+##  Objective
 
 The primary objectives of this project are:
 
@@ -20,7 +20,7 @@ The project uses a dataset containing various attributes related to Amazon sales
 
 - **Amazon_Sales.csv**: This dataset includes detailed information on attributes like product name, order date, region, revenue, and order priority.
 
-## 📋 Methodology
+##  Methodology
 
 The project follows a structured approach:
 
@@ -57,7 +57,7 @@ The project follows a structured approach:
    - Implementing anomaly detection to identify unusual data points.
    - Conducting hypothesis testing to statistically validate assumptions about the data.
 
-## ✅ Requirements
+##  Requirements
 
 To run this project, you'll need the following:
 
@@ -80,7 +80,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn scipy
 ```
 
 
-## 📈 Results
+##  Results
 
 ### Key Findings
 
@@ -89,6 +89,6 @@ pip install pandas numpy matplotlib seaborn scikit-learn scipy
 3. **Total Revenue by Region and more.**
 
 
-## 🔚 Conclusion
+##  Conclusion
 
 This analysis provides a comprehensive view of Amazon sales data, offering insights into revenue patterns, top-performing products, and sales trends. The visualizations and statistical analyses can aid in understanding the dynamics of sales performance, potentially helping business analysts, marketers, and decision-makers in their efforts to optimize sales strategies.
